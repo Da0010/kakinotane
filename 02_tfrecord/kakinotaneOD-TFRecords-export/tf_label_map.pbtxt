@@ -1,0 +1,12 @@
+item {
+ id: 1
+ name: 'kaki'
+}
+item {
+ id: 2
+ name: 'chipped kaki'
+}
+item {
+ id: 3
+ name: 'peanuts'
+}

@@ -1,0 +1,809 @@
+{
+    "name": "kakinotaneOD",
+    "securityToken": "kakinotaneOD Token",
+    "sourceConnection": {
+        "name": "kakinotaneOD",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYmU0M2Q1YjQzYzUzODg0ZWYwZTUyNTdiYjdlNzdiMjM0MWI0MTU5ZmE0YjUwMTdkMTQ4NDYwZjE1ZjYyNTZmNjAwMDRkZGNmYmRkOGE0MTNlMmFiN2JiNzViY2FlNzBjYzQ2ZTI3OTExYTEzN2Q1ODJiNTg3YjQxNzdjYWZhN2QiLCJpdiI6IjJlYzQ1NmFjNjkyMGE0NjYzMTJmZTc2OTk5NDUyNWEzYzI2ZmZiMTI0ZDhiODQ4YiJ9"
+        },
+        "id": "98OezDH_m"
+    },
+    "targetConnection": {
+        "name": "kakinotaneOD",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjYxYTdlNDNiMGQ5M2MwMzA5YmQ1NDhkYjQxMjA1Y2EzY2I3NjQ1YmNmMTliYTY5ZDJkN2Q2OWU5YTdmMTFmZmYwYjI5NjBmYTY4MDM4OTdhNjFiM2YzOGFiYjJkYzQzNjRiMGYyYzcyZTRkNDZiMmE3ZTkzZmZjODhiODIzZjAiLCJpdiI6ImFlOWNkY2MzYmYxODMzOWFhODI0MTY3YjRlZTFmYzQ0NDgwOWUxZmZhNjExOGFlNiJ9"
+        },
+        "id": "3n_gkypMt"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "kaki",
+            "color": "#5db300"
+        },
+        {
+            "name": "chipped kaki",
+            "color": "#e81123"
+        },
+        {
+            "name": "peanuts",
+            "color": "#6917aa"
+        }
+    ],
+    "id": "txT2LnYuT",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "tensorFlowRecords",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzU1ZDgwOWZhMGM5ODM5ODI2MTQ1MjY5YWQ0ZTc0ZDA0MGU0M2UwYzRmNTNiZTUzMmNmN2I1NWEzYzY3MmZiOCIsIml2IjoiMmQ4MGVjZTEyYzI5ODFlMzQ4MDQ0ODQ4OTU3N2JhNzI0ZmQ3NmQwMDUxODc3NGVhIn0="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "5b6421f10a152a5247a4bf76105fa284",
+    "assets": {
+        "86b47906f6b547579e8e463cdb0811fb": {
+            "format": "jpeg",
+            "id": "86b47906f6b547579e8e463cdb0811fb",
+            "name": "066BF7E2-1212-4FCD-9740-24DF43A05629.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/066BF7E2-1212-4FCD-9740-24DF43A05629.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "37e4d3258d4470a25312e6f3d233b47c": {
+            "format": "jpeg",
+            "id": "37e4d3258d4470a25312e6f3d233b47c",
+            "name": "12B5AA2E-94DA-4503-AAEC-13E5F6F268A2.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/12B5AA2E-94DA-4503-AAEC-13E5F6F268A2.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4eef402fbb527f6c16ef534da6dcffc7": {
+            "format": "jpeg",
+            "id": "4eef402fbb527f6c16ef534da6dcffc7",
+            "name": "1B65995C-E87B-4389-9E0E-47AE24AF3DBA.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/1B65995C-E87B-4389-9E0E-47AE24AF3DBA.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7831487dc9a86ec54a733a75b104b3bc": {
+            "format": "jpeg",
+            "id": "7831487dc9a86ec54a733a75b104b3bc",
+            "name": "2301A961-4D23-4503-BE49-921C0D3E94D8.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/2301A961-4D23-4503-BE49-921C0D3E94D8.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0022c0b4a8587477ebce095deb5b8cb": {
+            "format": "jpeg",
+            "id": "f0022c0b4a8587477ebce095deb5b8cb",
+            "name": "23DC97B5-AB6C-405B-A7A5-A2BFCE89E1B9.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/23DC97B5-AB6C-405B-A7A5-A2BFCE89E1B9.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "27e48948395c9c26f295a44bd19d7756": {
+            "format": "jpeg",
+            "id": "27e48948395c9c26f295a44bd19d7756",
+            "name": "24FA855B-0697-470C-A913-DEFE676E5166.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/24FA855B-0697-470C-A913-DEFE676E5166.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8915082ee3fcc1982288cd89a8abc2a0": {
+            "format": "jpeg",
+            "id": "8915082ee3fcc1982288cd89a8abc2a0",
+            "name": "26F227AE-F44A-4A05-B3C0-DBEE16F071D5.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/26F227AE-F44A-4A05-B3C0-DBEE16F071D5.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b40fac826f893db1b264ad0301f38c8": {
+            "format": "jpeg",
+            "id": "0b40fac826f893db1b264ad0301f38c8",
+            "name": "336467AE-D9B0-4206-AC44-492B338DBC7D.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/336467AE-D9B0-4206-AC44-492B338DBC7D.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d9857c0e168b54f13463b4c7e584f16f": {
+            "format": "jpeg",
+            "id": "d9857c0e168b54f13463b4c7e584f16f",
+            "name": "3FA29A68-22A0-40A7-9929-D9D23A9F323C.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/3FA29A68-22A0-40A7-9929-D9D23A9F323C.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e6a70df406695116d7ef6671386418d": {
+            "format": "jpeg",
+            "id": "0e6a70df406695116d7ef6671386418d",
+            "name": "40A73CEC-EBF5-416D-8EA8-2CAFBFCA84CC.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/40A73CEC-EBF5-416D-8EA8-2CAFBFCA84CC.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eedfcb28bc8f9ac4ce1905b27286a44b": {
+            "format": "jpeg",
+            "id": "eedfcb28bc8f9ac4ce1905b27286a44b",
+            "name": "48B4FBD8-680F-4167-9D55-F342C513D92E.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/48B4FBD8-680F-4167-9D55-F342C513D92E.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c73780a454567b323f3fd8a11d47fec0": {
+            "format": "jpeg",
+            "id": "c73780a454567b323f3fd8a11d47fec0",
+            "name": "4AFDA742-CAEC-4A1A-9C31-25E47E548447.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/4AFDA742-CAEC-4A1A-9C31-25E47E548447.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42235f5b4499c4a192cb4082d07e995d": {
+            "format": "jpeg",
+            "id": "42235f5b4499c4a192cb4082d07e995d",
+            "name": "4D2A5B76-348A-40F5-8C14-F7BCA3FEE18F.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/4D2A5B76-348A-40F5-8C14-F7BCA3FEE18F.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "048d54c2edff72bc64832e8cccf23305": {
+            "format": "jpeg",
+            "id": "048d54c2edff72bc64832e8cccf23305",
+            "name": "4EE8F6D9-C7E5-4C61-8E2B-68E4C4A40EF8.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/4EE8F6D9-C7E5-4C61-8E2B-68E4C4A40EF8.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "842ef8f9219fcd6096578172b0c5a323": {
+            "format": "jpeg",
+            "id": "842ef8f9219fcd6096578172b0c5a323",
+            "name": "51F415F4-978D-4DFA-A98B-65CC5E6AB7AA.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/51F415F4-978D-4DFA-A98B-65CC5E6AB7AA.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5acdb506f29c7c591a9bcc3ce0c23234": {
+            "format": "jpeg",
+            "id": "5acdb506f29c7c591a9bcc3ce0c23234",
+            "name": "5AEABD39-1955-4CF5-81F6-E4C200CBCD46.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/5AEABD39-1955-4CF5-81F6-E4C200CBCD46.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc9359ff4b65fc59aca48aea5fa45616": {
+            "format": "jpeg",
+            "id": "dc9359ff4b65fc59aca48aea5fa45616",
+            "name": "5EA068B5-6F2D-4FEE-A556-FDE56DE78606.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/5EA068B5-6F2D-4FEE-A556-FDE56DE78606.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "116a4af94dc787eb6f293b684c6f6936": {
+            "format": "jpeg",
+            "id": "116a4af94dc787eb6f293b684c6f6936",
+            "name": "5F03A8B2-1C82-4182-9274-A6B71D48B488.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/5F03A8B2-1C82-4182-9274-A6B71D48B488.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "923b7fa555a148663f1a088fef325826": {
+            "format": "jpeg",
+            "id": "923b7fa555a148663f1a088fef325826",
+            "name": "5FB0EBCE-B6DC-4936-9850-ED95C6B1DC3D.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/5FB0EBCE-B6DC-4936-9850-ED95C6B1DC3D.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9deee11cc0c5b1b2c5f4f5dc03a5ae4f": {
+            "format": "jpeg",
+            "id": "9deee11cc0c5b1b2c5f4f5dc03a5ae4f",
+            "name": "65E7E7AC-C4E2-4262-A4E4-6DB953750F85.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/65E7E7AC-C4E2-4262-A4E4-6DB953750F85.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "153555540b0c5e252c7283e2ac484023": {
+            "format": "jpeg",
+            "id": "153555540b0c5e252c7283e2ac484023",
+            "name": "6E42F226-87D7-472B-BE11-050DBDB28252.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/6E42F226-87D7-472B-BE11-050DBDB28252.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df4167307dd06ef393dca1986177c36e": {
+            "format": "jpeg",
+            "id": "df4167307dd06ef393dca1986177c36e",
+            "name": "6F0FA72E-5C80-43B3-99C6-2472CA7EB307.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/6F0FA72E-5C80-43B3-99C6-2472CA7EB307.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec0639f63f02e57f4bbcbb170b19a654": {
+            "format": "jpeg",
+            "id": "ec0639f63f02e57f4bbcbb170b19a654",
+            "name": "6F1807CB-DB88-4C21-B7DF-385D4A3B5033.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/6F1807CB-DB88-4C21-B7DF-385D4A3B5033.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ca1250f4e5f714b036c09635e7d7f7c": {
+            "format": "jpeg",
+            "id": "8ca1250f4e5f714b036c09635e7d7f7c",
+            "name": "7AD96BB0-943B-4938-B727-E298991C9D89.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/7AD96BB0-943B-4938-B727-E298991C9D89.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5ebbd14f0f426bc77d23591147daa67": {
+            "format": "jpeg",
+            "id": "e5ebbd14f0f426bc77d23591147daa67",
+            "name": "7B0F982B-9C8A-4949-9F32-E8AB78B511E9.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/7B0F982B-9C8A-4949-9F32-E8AB78B511E9.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "858ac30b4a814f359c83ea1c2b2bc4ff": {
+            "format": "jpeg",
+            "id": "858ac30b4a814f359c83ea1c2b2bc4ff",
+            "name": "7D5A851C-E047-4E5C-9B80-2E720FBE085C.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/7D5A851C-E047-4E5C-9B80-2E720FBE085C.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28eb8d907bc8c250ca6df3b63e98df12": {
+            "format": "jpeg",
+            "id": "28eb8d907bc8c250ca6df3b63e98df12",
+            "name": "7DF6CFC7-0A9F-4448-A036-3AFE5563BE1F.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/7DF6CFC7-0A9F-4448-A036-3AFE5563BE1F.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dafc3fb5e16c220e8a06e77e381e9506": {
+            "format": "jpeg",
+            "id": "dafc3fb5e16c220e8a06e77e381e9506",
+            "name": "8563F717-2E09-4F3C-9FA5-AA73FFD60C93.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/8563F717-2E09-4F3C-9FA5-AA73FFD60C93.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d4292d8fc2a5b0953592505ef5413e0": {
+            "format": "jpeg",
+            "id": "0d4292d8fc2a5b0953592505ef5413e0",
+            "name": "86EC500D-E63A-4CB7-83E9-1A6AE0B33996.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/86EC500D-E63A-4CB7-83E9-1A6AE0B33996.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a8a75eebfb9cbc1d8d18908934fd4bf0": {
+            "format": "jpeg",
+            "id": "a8a75eebfb9cbc1d8d18908934fd4bf0",
+            "name": "89FB4D4F-FC49-42F8-BEBF-E569431FFB37.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/89FB4D4F-FC49-42F8-BEBF-E569431FFB37.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42ac93d06c7af66019d75ed44879d21f": {
+            "format": "jpeg",
+            "id": "42ac93d06c7af66019d75ed44879d21f",
+            "name": "8D54102C-CA7B-4341-8D0D-D88147D9780C.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/8D54102C-CA7B-4341-8D0D-D88147D9780C.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "798660acb8d1f39866258c5026c77dec": {
+            "format": "jpeg",
+            "id": "798660acb8d1f39866258c5026c77dec",
+            "name": "8E450823-F475-455F-9DE9-66361A5698E0.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/8E450823-F475-455F-9DE9-66361A5698E0.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7f4c3373bfc97550597f16f1a5cf467a": {
+            "format": "jpeg",
+            "id": "7f4c3373bfc97550597f16f1a5cf467a",
+            "name": "91825181-2EAE-47F1-A67C-E4C63B5C678D.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/91825181-2EAE-47F1-A67C-E4C63B5C678D.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f5a1af365b4fd70b0ff14656da55ac1": {
+            "format": "jpeg",
+            "id": "3f5a1af365b4fd70b0ff14656da55ac1",
+            "name": "91FB23A8-A31A-4B5D-B2F0-B350318B9C19.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/91FB23A8-A31A-4B5D-B2F0-B350318B9C19.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f5ae6d14210c72dc4ee4369da02703e1": {
+            "format": "jpeg",
+            "id": "f5ae6d14210c72dc4ee4369da02703e1",
+            "name": "951D444B-B314-496E-9B9A-D567295FD8D5.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/951D444B-B314-496E-9B9A-D567295FD8D5.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2653ca6b3a1667b549bd2daf55f932eb": {
+            "format": "jpeg",
+            "id": "2653ca6b3a1667b549bd2daf55f932eb",
+            "name": "9567CE44-37F7-4C0C-AC14-3B3F9E83602D.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/9567CE44-37F7-4C0C-AC14-3B3F9E83602D.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba8024b559004f9e5c998b65f294415c": {
+            "format": "jpeg",
+            "id": "ba8024b559004f9e5c998b65f294415c",
+            "name": "9869B170-37CD-4ED2-A180-EF2979D20AEE.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/9869B170-37CD-4ED2-A180-EF2979D20AEE.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "62d19e5b77741d2bfdb1a8c33b418b25": {
+            "format": "jpeg",
+            "id": "62d19e5b77741d2bfdb1a8c33b418b25",
+            "name": "9C8E8752-52B5-4760-A193-F4628C65C72B.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/9C8E8752-52B5-4760-A193-F4628C65C72B.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "044fbfc2dd68c988edff73ae80f96d18": {
+            "format": "jpeg",
+            "id": "044fbfc2dd68c988edff73ae80f96d18",
+            "name": "A527EBC2-4449-4ADF-83CE-CDE2EB312C7F.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/A527EBC2-4449-4ADF-83CE-CDE2EB312C7F.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d8ec0175e5a51f6e206e6aabd502217": {
+            "format": "jpeg",
+            "id": "3d8ec0175e5a51f6e206e6aabd502217",
+            "name": "AA6347DC-4A7F-49E8-9613-6A98B501A3FF.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/AA6347DC-4A7F-49E8-9613-6A98B501A3FF.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60f29196b98415f2393d8875389c24f9": {
+            "format": "jpeg",
+            "id": "60f29196b98415f2393d8875389c24f9",
+            "name": "AC498082-B4D9-4504-8CE5-29A2E70DD851.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/AC498082-B4D9-4504-8CE5-29A2E70DD851.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61dfaf393cc8e6d9e0c36e72ce5c9597": {
+            "format": "jpeg",
+            "id": "61dfaf393cc8e6d9e0c36e72ce5c9597",
+            "name": "B432D97E-3F14-4369-B1F3-3D7900DE69CF.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/B432D97E-3F14-4369-B1F3-3D7900DE69CF.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d20c5a7e46e4f5a3131100d75c624b35": {
+            "format": "jpeg",
+            "id": "d20c5a7e46e4f5a3131100d75c624b35",
+            "name": "B84C1523-6F49-4F9E-94E4-3F7D7FEF2F87.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/B84C1523-6F49-4F9E-94E4-3F7D7FEF2F87.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64f7af845d173c411a323558e85cd89d": {
+            "format": "jpeg",
+            "id": "64f7af845d173c411a323558e85cd89d",
+            "name": "B90507A6-97A5-456F-967C-7D7431B843CA.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/B90507A6-97A5-456F-967C-7D7431B843CA.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9c1a3fd5011741ba4d1a7ed3d30d4120": {
+            "format": "jpeg",
+            "id": "9c1a3fd5011741ba4d1a7ed3d30d4120",
+            "name": "BBBA10DC-F83C-4A8F-88C7-D5F1F2D86FFF.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/BBBA10DC-F83C-4A8F-88C7-D5F1F2D86FFF.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "110f483b66181a78b4697c3808d7a050": {
+            "format": "jpeg",
+            "id": "110f483b66181a78b4697c3808d7a050",
+            "name": "BEFD6D77-89F1-446C-BED7-A5F5B27CFF81.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/BEFD6D77-89F1-446C-BED7-A5F5B27CFF81.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4aff576bc06111073acd8b6b853f093": {
+            "format": "jpeg",
+            "id": "f4aff576bc06111073acd8b6b853f093",
+            "name": "C755C4ED-A897-46B2-AD4A-30E2999E606F.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/C755C4ED-A897-46B2-AD4A-30E2999E606F.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ac3f3bc200f59cffc916a79ba40c0a3": {
+            "format": "jpeg",
+            "id": "2ac3f3bc200f59cffc916a79ba40c0a3",
+            "name": "C96B9750-ADB3-43CC-B62E-CB1590221693.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/C96B9750-ADB3-43CC-B62E-CB1590221693.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19869adf98f357f9d5196c5bf7e5f216": {
+            "format": "jpeg",
+            "id": "19869adf98f357f9d5196c5bf7e5f216",
+            "name": "CA41A799-DFE1-44F9-9FBB-086F21AE6E03.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/CA41A799-DFE1-44F9-9FBB-086F21AE6E03.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd449100961e02653d601974ce6fd328": {
+            "format": "jpeg",
+            "id": "fd449100961e02653d601974ce6fd328",
+            "name": "CA6A2F87-1A43-4A8C-B967-A7D10AFF4C1D.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/CA6A2F87-1A43-4A8C-B967-A7D10AFF4C1D.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "868e63d2871a9f7790bb5982c587126f": {
+            "format": "jpeg",
+            "id": "868e63d2871a9f7790bb5982c587126f",
+            "name": "CE6F9ED9-B33E-49C4-9AE7-B05AEF7CE875.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/CE6F9ED9-B33E-49C4-9AE7-B05AEF7CE875.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "363e9f39cd5fa18ae2ab404e97b2810c": {
+            "format": "jpeg",
+            "id": "363e9f39cd5fa18ae2ab404e97b2810c",
+            "name": "D107DAE9-6C8B-477D-9AD7-E804852B5155.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/D107DAE9-6C8B-477D-9AD7-E804852B5155.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d7de11031e6e78e196cc2474986b462": {
+            "format": "jpeg",
+            "id": "0d7de11031e6e78e196cc2474986b462",
+            "name": "D5E05FF1-7556-479F-B01D-B0D6BAA8192F.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/D5E05FF1-7556-479F-B01D-B0D6BAA8192F.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dbb76bcef7f3c9d6011b7b4ba48379dc": {
+            "format": "jpeg",
+            "id": "dbb76bcef7f3c9d6011b7b4ba48379dc",
+            "name": "DC49BAFD-D043-455C-A6BE-B3A9C4F4B370.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/DC49BAFD-D043-455C-A6BE-B3A9C4F4B370.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02cc66260d14afc71eaa4c3699ab466e": {
+            "format": "jpeg",
+            "id": "02cc66260d14afc71eaa4c3699ab466e",
+            "name": "DC578886-707E-412F-901E-EF25CE3E9840.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/DC578886-707E-412F-901E-EF25CE3E9840.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "370d83e272bc59f2f38e9df3894d9858": {
+            "format": "jpeg",
+            "id": "370d83e272bc59f2f38e9df3894d9858",
+            "name": "E42FBC94-80E6-4B05-A79C-75E7865AEA86.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/E42FBC94-80E6-4B05-A79C-75E7865AEA86.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3fd6480ca17215e7fc6f8429c066894d": {
+            "format": "jpeg",
+            "id": "3fd6480ca17215e7fc6f8429c066894d",
+            "name": "E66A48F7-3F9B-4993-91CC-C9087C38DB21.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/E66A48F7-3F9B-4993-91CC-C9087C38DB21.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2627d798b8feed3599baa48ff091da3": {
+            "format": "jpeg",
+            "id": "e2627d798b8feed3599baa48ff091da3",
+            "name": "E9163FD9-F6BB-4508-B658-2750E805E40E.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/E9163FD9-F6BB-4508-B658-2750E805E40E.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ff39541deee138a62418fea9a3e9d24": {
+            "format": "jpeg",
+            "id": "4ff39541deee138a62418fea9a3e9d24",
+            "name": "F0627938-5410-45C7-8D05-65FA4D048FDD.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/F0627938-5410-45C7-8D05-65FA4D048FDD.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9495e6de13e7ed4dc5186498b3504d8b": {
+            "format": "jpeg",
+            "id": "9495e6de13e7ed4dc5186498b3504d8b",
+            "name": "F99BA9E8-8242-4517-9F32-89D6476742A3.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/F99BA9E8-8242-4517-9F32-89D6476742A3.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b168702ab2007b31fb75c551a2e40f28": {
+            "format": "jpeg",
+            "id": "b168702ab2007b31fb75c551a2e40f28",
+            "name": "F9D0451D-B216-406A-99F4-B6FEBE8D3B5E.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/F9D0451D-B216-406A-99F4-B6FEBE8D3B5E.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a457b4c8f41de2d94f7d52e4bfed1a4d": {
+            "format": "jpeg",
+            "id": "a457b4c8f41de2d94f7d52e4bfed1a4d",
+            "name": "FE29694C-121C-4024-91AE-BA11B38E6000.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/FE29694C-121C-4024-91AE-BA11B38E6000.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b6421f10a152a5247a4bf76105fa284": {
+            "format": "jpeg",
+            "id": "5b6421f10a152a5247a4bf76105fa284",
+            "name": "FF82C99C-A9A8-41D9-BC3E-9A7CC1FCC38C.jpeg",
+            "path": "file:/Users/dj/Desktop/kakinotaneOD/01_traindata/FF82C99C-A9A8-41D9-BC3E-9A7CC1FCC38C.jpeg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
